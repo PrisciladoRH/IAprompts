@@ -6,3 +6,7 @@
 # Criação de base de dados e gpt Service: 
 
 https://chatgpt.com/g/g-681f7f35ebe88191bd2ccbad90892a48-sales-report-manager-dio-me
+
+
+#Funcionalidades
+Através da criação desse gpt, é posível extrais insigths com facilidade, através da liguagem natural falada. 
